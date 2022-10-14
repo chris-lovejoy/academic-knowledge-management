@@ -62,10 +62,7 @@ Over time, these summaries can be improved and serve as a key self-reference on 
 
 Some example papers are shown here: 
 - [[Blockchain-Based Access Control Scheme for Secure Shared Personal Health Records over Decentralised Storage]]
-- [TO ADD - personalised nutrition paper]
-- [TO ADD]
+- [[GluNet - A Deep Learning Framework for Accurate Glucose Forecasting]]
 
-Some example topic-level notes are shown here:
+An example topic-level note is shown here:
 - [[Decentralised storage of health data]]
-- [TO ADD]
-- [TO ADD]
