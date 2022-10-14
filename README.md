@@ -12,7 +12,7 @@ This folder contains a template academic knowledge management system. It is best
 
 For a more detailed description of this system, its motivations and configuration, see [this article](https://chrislovejoy.me/akm).
 
-(NOTE: This README is best read in Obsidian, to enable all links to be followed.)
+(NOTE: This README is best read in Obsidian, to enable all links to be visualised correctly and followed.)
 
 ---
 
