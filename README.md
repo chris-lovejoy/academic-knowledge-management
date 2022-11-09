@@ -41,7 +41,7 @@ The pipeline works as follows:
 
 
 ### 3. Process the paper insights
-- When reading many papers on a particular topic, create a note for that topic within the folder '2_topics' (see example [[Decentralised storage of health data|here]])
+- When reading many papers on a particular topic, create a note for that topic within the folder '2_topics' (see example [[Decentralised data storage|here]])
 - Add the [[topic_template]] template (using the ['Templater' Obsidian plug-in](https://github.com/SilentVoid13/Templater))
 - Create links for all relevant papers that you read from within that note
 - Review the summary and high-level thoughts for all linked papers and write a topic summary
@@ -68,4 +68,4 @@ Some example papers are shown here:
 - [[GluNet - A Deep Learning Framework for Accurate Glucose Forecasting]]
 
 An example topic-level note is shown here:
-- [[Decentralised storage of health data]]
+- [[Decentralised data storage]]

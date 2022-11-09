@@ -1,5 +1,3 @@
-# Decentralised storage of health data
-
 ### Metadata
 topics: #decentralised-storage #blockchain #health-data #health-records 
 type: #topic
