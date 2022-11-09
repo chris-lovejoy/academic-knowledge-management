@@ -55,7 +55,7 @@ Over time, these summaries can be improved and serve as a key self-reference on 
 - Export the bib file from Zotero and add to LaTeX.
 
 
-*NOTE: There is now an [Obsidian Citation Plugin](https://github.com/hans/obsidian-citation-plugin) which may circumvent some elements of this pipeline.*
+*NOTE: The [Obsidian Citation Plugin](https://github.com/hans/obsidian-citation-plugin) provides an alternative to elements of this flow - I'd recommend checking it out too.* 
 
 
 ---
