@@ -31,10 +31,6 @@ The pipeline works as follows:
 (I use a folder structure to organise my papers in Zotero, with folders for projects and for areas of interest - [[Zotero_folders.png|see this screenshot]].)
 
 
----
-
-*This demo vault was [Runner up in the Obsidian October 2022 competition](https://forum.obsidian.md/t/obsidian-october-2022-winners/49087). See all competition submissions [here](https://airtable.com/shrFnFY00zy1ORZgI/tblP9bDDDDCib7Roy).
-
 ### 2. Read a paper
 - Create a note within folder '1_papers' with the title of the paper (see [[Blockchain-Based Access Control Scheme for Secure Shared Personal Health Records over Decentralised Storage|this example]])
 - Add the [[paper_template]] template (using the ['Templater' Obsidian plug-in](https://github.com/SilentVoid13/Templater))
@@ -73,3 +69,9 @@ Some example papers are shown here:
 
 An example topic-level note is shown here:
 - [[Decentralised data storage]]
+
+
+
+---
+
+*This demo vault was [Runner up in the Obsidian October 2022 competition](https://forum.obsidian.md/t/obsidian-october-2022-winners/49087). See all competition submissions [here](https://airtable.com/shrFnFY00zy1ORZgI/tblP9bDDDDCib7Roy)*.
